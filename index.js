@@ -1,5 +1,11 @@
 const textElement = document.querySelector(".animated-text");
 const texts = [
+    "BIBO IS THE BEST",
+    "BIBO IS THE GREATEST",
+    "BIBO IS THE MOST BEAUTIFUL",
+    "BIBO IS THE CUTEST",
+    "Everything crumbles against bibo",
+    "yay bibo",
     "Everything is going too fast",
     "But you’re okay",
     "You are kenough",
