@@ -1,12 +1,24 @@
 const textElement = document.querySelector(".animated-text");
 const texts = [
-    "BIBO IS THE BEST",
-    "BIBO IS THE GREATEST",
-    "BIBO IS THE MOST BEAUTIFUL",
-    "BIBO IS THE CUTEST",
+    "Bibo is one of a kind",
+    "Bibo is the cutest",
+    "Bibo makes everything better",
+    "Yay bibo",
+    "The world is better with Bibo in it",
     "Everything crumbles against bibo",
-    "yay bibo",
-    "You are kenough",
+    "Bibo always wins",
+    "Bibo shines brighter than the stars",
+    "Bibo is legendary",
+    "Bibo is the coolest",
+    "Bibo is a true superstar",
+    "Bibo is pure magic",
+    "Bibo is the best",
+    "Bibo is unstoppable",
+    "Nothing can bring Bibo down",
+    "Bibo is the greatest",
+    "Bibo is the most beautiful",
+    "Bibo’s smile lights up the room",
+    "Bibo is the definition of awesome",
 ];
 
 let index = 0;
