@@ -1,24 +1,19 @@
 const textElement = document.querySelector(".animated-text");
 const texts = [
+    "I love you very very much",
+    "You make me happy :)"
+    "Bibo is a beacon of joy",
+    "Bibo is a rare bloom in life's garden."
+    "Bibo’s energy is contagious",
+    "Bibo brightens every day.",
     "Bibo is one of a kind",
+    "Bibo is the sunshine on a cloudy day",
     "Bibo is the cutest",
+    "Bibo’s courage is unmatched",
+    "Bibo turns the ordinary into extraordinary",
     "Bibo makes everything better",
-    "Yay bibo",
-    "The world is better with Bibo in it",
     "Everything crumbles against bibo",
-    "Bibo always wins",
-    "Bibo shines brighter than the stars",
-    "Bibo is legendary",
-    "Bibo is the coolest",
-    "Bibo is a true superstar",
-    "Bibo is pure magic",
-    "Bibo is the best",
-    "Bibo is unstoppable",
-    "Nothing can bring Bibo down",
-    "Bibo is the greatest",
-    "Bibo is the most beautiful",
-    "Bibo’s smile lights up the room",
-    "Bibo is the definition of awesome",
+    "Yay bibo"
 ];
 
 let index = 0;
