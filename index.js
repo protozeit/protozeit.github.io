@@ -1,7 +1,7 @@
 const textElement = document.querySelector(".animated-text");
 const texts = [
     "I love you very very much",
-    "You make me happy :)"
+    "You make me happy :)",
     "Bibo is a beacon of joy",
     "Bibo is a rare bloom in life's garden."
     "Bibo’s energy is contagious",
