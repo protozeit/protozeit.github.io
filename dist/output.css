@@ -725,7 +725,7 @@ video {
 
 .bg-background {
   --tw-bg-opacity: 1;
-  background-color: rgb(11 15 20 / var(--tw-bg-opacity));
+  background-color: rgb(70, 8, 5) / var(--tw-bg-opacity));
 }
 
 .bg-secondary {
